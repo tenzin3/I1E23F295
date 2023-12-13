@@ -1,0 +1,75 @@
+{
+    "id": "723ac4c25e1643b3a47b42094abbab1c",
+    "annotation_type": "index",
+    "revision": "00001",
+    "annotations": {
+        "488548ea241349f1aad1400eb453c464": {
+            "base": "5E06.txt",
+            "Chapters": [
+                {
+                    "title": "Title",
+                    "span": {
+                        "start": 0,
+                        "end": 229
+                    }
+                },
+                {
+                    "title": "Preface",
+                    "span": {
+                        "start": 230,
+                        "end": 11920
+                    }
+                },
+                {
+                    "title": "Chapters I-V",
+                    "span": {
+                        "start": 11921,
+                        "end": 39731
+                    }
+                },
+                {
+                    "title": "Chapters VI-X",
+                    "span": {
+                        "start": 39732,
+                        "end": 84202
+                    }
+                },
+                {
+                    "title": "Chapters XI-XV",
+                    "span": {
+                        "start": 84203,
+                        "end": 84751
+                    }
+                },
+                {
+                    "title": "Chapters XVI-XX",
+                    "span": {
+                        "start": 84752,
+                        "end": 85741
+                    }
+                },
+                {
+                    "title": "Chapters XXI-XXV",
+                    "span": {
+                        "start": 85742,
+                        "end": 87182
+                    }
+                },
+                {
+                    "title": "Chapters XXVI-XXVII",
+                    "span": {
+                        "start": 87183,
+                        "end": 87666
+                    }
+                },
+                {
+                    "title": "Colophon",
+                    "span": {
+                        "start": 87667,
+                        "end": 87677
+                    }
+                }
+            ]
+        }
+    }
+}
